@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehdifettah https://www.linkedin.com/in/mehdi-fettah/
 - 👀 I’m interested in cloud mainly Azure and AWS
-- 🌱 I’m currently learning Azure , and I have many certification , please check my LinkedIN
+- 🌱 I’m currently learning Azure , and I have many certificatiosn , please check my LinkedIN
 - 💞️ I’m looking to collaborate on Azure projects
 - 📫 How to reach me (https://www.linkedin.com/in/mehdi-fettah/) 
 
